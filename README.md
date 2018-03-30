@@ -1,4 +1,5 @@
 # Alphabet
+
 def string(s):
   my_string = input ("Enter String:")
   d={"UPPER_CASE":0, "LOWER_CASE":0}
