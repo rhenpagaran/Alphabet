@@ -1,4 +1,5 @@
 # Alphabet
+#Rhina G. Pagaran
 
 def string(s):
   my_string = input ("Enter String:")
